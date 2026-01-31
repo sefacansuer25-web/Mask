@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - LVL_1
+  - LVL_2
+  - LVL_3
+  - LVL_4
+  - LVL_5
+  - Graund
+  - EvPortal
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - "Sa\xE7"
+  - "g\xF6z"
+  - burun
+  - "a\u011F\u0131z"
+  - ten
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  m_RenderingLayers:
+  - Default
